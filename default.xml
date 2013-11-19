@@ -477,9 +477,11 @@
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" revision="cm-11.0" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" revision="cm-11.0" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" revision="cm-11.0" />
-  <project path="vendor/broadcom" name="TheMuppets/proprietary_vendor_broadcom" revision="cm-11.0" />
+  <!-- broadcom currently no kitkat -->
+  <project path="vendor/broadcom" name="TheMuppets/proprietary_vendor_broadcom" revision="cm-10.2" />
   <project path="vendor/elan" name="TheMuppets/proprietary_vendor_elan" revision="cm-11.0" />
-  <project path="vendor/imgtec" name="TheMuppets/proprietary_vendor_imgtec" revision="cm-11.0" />
+  <!-- imgtec currently no kitkat -->
+  <project path="vendor/imgtec" name="TheMuppets/proprietary_vendor_imgtec" revision="cm-10.2" />
   <project path="vendor/invensense" name="TheMuppets/proprietary_vendor_invensense" revision="cm-11.0" />
   <project path="vendor/nvidia" name="TheMuppets/proprietary_vendor_nvidia" revision="cm-11.0" />
   <project path="vendor/nxp" name="TheMuppets/proprietary_vendor_nxp" revision="cm-11.0" />
