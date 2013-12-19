@@ -111,7 +111,7 @@
   <project path="external/easymock" name="CyanogenMod/android_external_easymock" />
   <project path="external/eclipse-basebuilder" name="CyanogenMod/android_external_eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="CyanogenMod/android_external_eclipse-windowbuilder" />
-  <project path="external/elfutils" name="platform/external/elfutils" remote="ln" revision="linaro_android_4.4.2" /
+  <project path="external/elfutils" name="platform/external/elfutils" remote="ln" revision="linaro_android_4.4.2" />
   <project path="external/embunit" name="platform/external/embunit" remote="ln" revision="linaro_android_4.4.2" />
   <project path="external/emma" name="CyanogenMod/android_external_emma" />
   <project path="external/esd" name="CyanogenMod/android_external_esd" />
@@ -248,7 +248,7 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" />
   <project path="external/srtp" name="CyanogenMod/android_external_srtp" />
-  <project path="external/stlport" name="platform/external/stlport" remote="ln" revision="linaro_android_4.4.2" /
+  <project path="external/stlport" name="platform/external/stlport" remote="ln" revision="linaro_android_4.4.2" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" />
   <project path="external/stressapptest" name="CyanogenMod/android_external_stressapptest" />
   <project path="external/svox" name="CyanogenMod/android_external_svox" />
