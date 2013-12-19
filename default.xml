@@ -6,7 +6,7 @@
            review="android-review.googlesource.com" />
 
   <remote  name="github"
-           fetch="https://github.com/"
+           fetch="https://github.com/" />
            
   <remote  name="ln"
            fetch="git://android.git.linaro.org/" />
@@ -19,7 +19,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="CyanFox/android_build" groups="pdk" >
+  <project path="build" name="fusion2/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
